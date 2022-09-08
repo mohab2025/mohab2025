@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohab Mohamed Kamiha</h1>
-<h3 align="center">A Trainee at Information Technology Instituite (ITI) studying Open Source Application Development
+<h3 align="center">A Trainee at Information Technology Instituite (ITI) studying Open Source Web Development
 </h3>
 
 - 📫 How to reach me **mohabezzet@gmail.com**
